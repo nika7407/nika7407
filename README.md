@@ -1,4 +1,4 @@
-#  Hi there, I'm **Nikoloz Tsalkalamanidze**
+#  Hi there, I'm **Nika Tsalkalamanidze**
 
  I'm a **Junior Java Backend Developer** currently studying in the **second year** at **Georgian Technical University (GTU)**, Faculty of Informatics, specializing in **Programming Engineering**.
 
