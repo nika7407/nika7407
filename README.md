@@ -13,7 +13,7 @@
 - **Web**: HTML, CSS  
 - **Testing**: Module Testing  
 - **Tools**: Git, Gradle  
-- **Other**: HTTP Protocols, Data Structures, Advanced Mathematics
+- **Other**: Data Structures, REST architecture, HTTP Protocols, Advanced Mathematics
 
 ---
 
